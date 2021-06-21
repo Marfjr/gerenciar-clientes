@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Marco Aurelio",
+      "email": "marco@sabium.com.br",
+      "cpf": 14476341799,
+      "nasc": "28/06/1993",
+      "idade": 27
+    },
+    {
+      "id": 2,
+      "nome": "Juliany dos Santos",
+      "email": "recrutamento@sabium.com.br",
+      "cpf": "11122233344",
+      "nasc": "01/02/1993",
+      "idade": "28"
+    },
+    {
+      "nome": "Nome Sobrenome",
+      "email": "usuario@sabium.com.br",
+      "cpf": "00011122233",
+      "nasc": "01/01/2000",
+      "idade": "21",
+      "id": 3
+    }
+  ]
+}
